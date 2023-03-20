@@ -1,5 +1,5 @@
 /*
-* Author: 
+* Author:
 * File: 101-quote.c
 */
 
