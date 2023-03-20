@@ -1,4 +1,4 @@
-/**
+/*
 * Author: Oluwatobi
 * File: 101-quote.c
 */
